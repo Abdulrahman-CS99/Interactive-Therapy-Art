@@ -7,7 +7,7 @@ The idea of this project is to creare an interactive board that acts like a ther
 This project was selected in the AI Artathon 2.0 to be one of the top 50 projects.
 
 ## Team members:
-1- Abdulrahman Alghaliah<br>
+1- Abdulrahman Alghaligah<br>
 2- Ahmed Alotaibi<br>
 3- Fahad Alshaya
 
